@@ -1,0 +1,59 @@
+h1 {
+  font-size: 1.5em;
+  color: gray;
+}
+h2 {
+  font-size: 1.5em;
+  color: gray;
+}
+h3 {
+  font-size: 1.5em;
+  color: gray;
+}
+h4 {
+  font-size: 1.5em;
+  color: gray;
+}
+h5 {
+  font-size: 1.5em;
+  color: gray;
+}
+h6 {
+  font-size: 1.5em;
+  color: gray;
+}
+table {
+  border-style: solid;
+  border-color: gray;
+  align-content: center;
+  text-align: center;
+}
+thead {
+  color: #1c211c;
+}
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: square;
+}
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+blockquote {
+  background-color: gray;
+  color: white;
+}
+
+img {
+  padding: .5em;
+  position: absolute;
+  z-index: -2;
+  opacity: .2;
+  width: 8em;
+  height: 8em;
+}
+form li {
+  list-style-type: none;
+}
